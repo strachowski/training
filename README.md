@@ -1,7 +1,7 @@
 # training
 
 URL for the files:
-
+https://raw.githubusercontent.com/strachowski/training/master/free.jpg
 
 URL for the live image:
 
